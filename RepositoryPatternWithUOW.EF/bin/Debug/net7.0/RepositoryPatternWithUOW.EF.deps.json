@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "RepositoryPatternWithUOW.EF/1.0.0": {
+        "dependencies": {
+          "RepositoryPatternWithUOW.Core": "1.0.0"
+        },
+        "runtime": {
+          "RepositoryPatternWithUOW.EF.dll": {}
+        }
+      },
+      "RepositoryPatternWithUOW.Core/1.0.0": {
+        "runtime": {
+          "RepositoryPatternWithUOW.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RepositoryPatternWithUOW.EF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RepositoryPatternWithUOW.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

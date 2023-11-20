@@ -1,0 +1,12 @@
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\bin\Debug\net7.0\RepositoryPatternWithUOW.Core.deps.json
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\bin\Debug\net7.0\RepositoryPatternWithUOW.Core.dll
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\bin\Debug\net7.0\RepositoryPatternWithUOW.Core.pdb
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\RepositoryPatternWithUOW.Core.csproj.AssemblyReference.cache
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\RepositoryPatternWithUOW.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\RepositoryPatternWithUOW.Core.AssemblyInfoInputs.cache
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\RepositoryPatternWithUOW.Core.AssemblyInfo.cs
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\RepositoryPatternWithUOW.Core.csproj.CoreCompileInputs.cache
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\RepositoryPatternWithUOW.Core.dll
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\refint\RepositoryPatternWithUOW.Core.dll
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\RepositoryPatternWithUOW.Core.pdb
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\ref\RepositoryPatternWithUOW.Core.dll

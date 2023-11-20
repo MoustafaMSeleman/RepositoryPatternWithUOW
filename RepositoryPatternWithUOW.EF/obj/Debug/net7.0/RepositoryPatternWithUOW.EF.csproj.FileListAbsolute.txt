@@ -1,0 +1,15 @@
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net7.0\RepositoryPatternWithUOW.EF.deps.json
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net7.0\RepositoryPatternWithUOW.EF.dll
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net7.0\RepositoryPatternWithUOW.EF.pdb
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\RepositoryPatternWithUOW.EF.csproj.AssemblyReference.cache
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\RepositoryPatternWithUOW.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\RepositoryPatternWithUOW.EF.AssemblyInfoInputs.cache
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\RepositoryPatternWithUOW.EF.AssemblyInfo.cs
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\RepositoryPatternWithUOW.EF.csproj.CoreCompileInputs.cache
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\RepositoryPatternWithUOW.EF.dll
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\refint\RepositoryPatternWithUOW.EF.dll
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\RepositoryPatternWithUOW.EF.pdb
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\ref\RepositoryPatternWithUOW.EF.dll
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net7.0\RepositoryPatternWithUOW.Core.dll
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net7.0\RepositoryPatternWithUOW.Core.pdb
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\RepositoryPatternWithUOW.EF.csproj.CopyComplete
