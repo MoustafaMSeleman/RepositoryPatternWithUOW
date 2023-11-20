@@ -13,3 +13,5 @@ C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWit
 C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net7.0\RepositoryPatternWithUOW.Core.dll
 C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net7.0\RepositoryPatternWithUOW.Core.pdb
 C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\RepositoryPatternWithUOW.EF.csproj.CopyComplete
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net7.0\RepositoryPatternWithUOW.EF.runtimeconfig.json
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\RepositoryPatternWithUOW.EF.genruntimeconfig.cache

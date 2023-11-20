@@ -10,3 +10,5 @@ C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWit
 C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\refint\RepositoryPatternWithUOW.Core.dll
 C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\RepositoryPatternWithUOW.Core.pdb
 C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\ref\RepositoryPatternWithUOW.Core.dll
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\bin\Debug\net7.0\RepositoryPatternWithUOW.Core.runtimeconfig.json
+C:\Users\Moustafa M Seleman\source\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\RepositoryPatternWithUOW.Core.genruntimeconfig.cache
