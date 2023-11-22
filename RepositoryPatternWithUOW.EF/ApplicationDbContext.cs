@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using RepositoryPatternWithUOW.Core.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,4 +15,6 @@ public class ApplicationDbContext : DbContext
     {
         
     }
+    public DbSet<Auther> Authers { get; set; }
+    public DbSet<Book> Books { get; set; }
 }
