@@ -22,5 +22,16 @@ namespace RepositoryPatternWithUOW.Api.Controllers
         {
             return Ok(_repo.GetById(id));
         }
+        [HttpGet("GetByIdAsync")]
+        public async Task<IActionResult> GetByIdAsync(int id)
+        {
+            return Ok(await _repo.GetByIdAsync(id));
+        }
+
+        [HttpGet("GetAll")]
+        public IActionResult GetAll()
+        {
+            return Ok(_repo.GetAll());
+        }
     }
 }
