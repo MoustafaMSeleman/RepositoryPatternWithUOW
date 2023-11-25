@@ -1,0 +1,5 @@
+PS> dotnet new sln -o RepositoryPatternWithUOW
+PS> cd *Reposi + tab
+PS> dotnet new webapi -o RepositoryPatternWithUOW.Api
+PS> dotnet new classlib -o RepositoryPatternWithUOW.Ef
+PS> dotnet new classlib -o RepositoryPatternWithUOW.Core   

@@ -1,0 +1,3 @@
+//GET http://localhost:5057/api/Auther/GetByIdAsync?id=1
+
+GET http://localhost:5057/api/Auther/GetAll
